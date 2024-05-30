@@ -1,0 +1,26 @@
+body{
+    color:white;
+    font-size: large;
+    text-align: center;
+    background: #0fa4af;
+}
+h1 {
+    color: #d9b08c;
+    font-size: 50px ;
+    text-align: center;
+    text-decoration:dashed;
+    background: #116466;
+}
+div{
+    text-align: left;
+    background-color: #14919c;
+}
+h3{
+    text-align: left;
+    text-decoration: underline;
+    color: #212a31;
+}
+ul{
+    text-align: left;
+background :#14919c ;
+}
